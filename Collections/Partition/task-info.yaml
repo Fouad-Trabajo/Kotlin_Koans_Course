@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 134
-        length: 19
+        length: 6
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 134
         initialized_from_dependency: false
         encrypted_possible_answer: v3tjneNUfFawjzlV+QJfqT5pnCPodO32C8y9FFqz0JuDWfghtiFEv+tYevmQ1BsCkvgkUzwXvyoiKt9sgxTAPl886bRgI/Hh4KJkx/QoGD5vvF+XtRauTCXgOz1LUhw6VrNtnHcnw1aGmtQIJynpJON/UUqXmVSRkJY3jXLgkAArXH2kebbGuGZfuy/2Xtfe
-        selected: false
+        selected: true
         status: Failed
     learner_created: false
   - name: src/Shop.kt
