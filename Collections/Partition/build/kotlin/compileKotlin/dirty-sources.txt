@@ -1,2 +1,0 @@
-C:\Users\Fouad\StudioProjects\Kotlin Koans\Collections\Partition\src\Shop.kt
-C:\Users\Fouad\StudioProjects\Kotlin Koans\Collections\Partition\src\Task.kt

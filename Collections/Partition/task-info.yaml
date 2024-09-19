@@ -3,8 +3,8 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 134
-        length: 6
+      - offset: 133
+        length: 141
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -12,7 +12,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: v3tjneNUfFawjzlV+QJfqT5pnCPodO32C8y9FFqz0JuDWfghtiFEv+tYevmQ1BsCkvgkUzwXvyoiKt9sgxTAPl886bRgI/Hh4KJkx/QoGD5vvF+XtRauTCXgOz1LUhw6VrNtnHcnw1aGmtQIJynpJON/UUqXmVSRkJY3jXLgkAArXH2kebbGuGZfuy/2Xtfe
         selected: true
-        status: Failed
+        status: Solved
     learner_created: false
   - name: src/Shop.kt
     visible: true
@@ -24,8 +24,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Collections+/+Partition
-status: Failed
+status: Solved
 feedback:
-  message: Compilation Failed
-  time: "Wed, 18 Sep 2024 00:44:39 UTC"
+  message: Congratulations!
+  time: "Thu, 19 Sep 2024 00:10:16 UTC"
 record: -1
