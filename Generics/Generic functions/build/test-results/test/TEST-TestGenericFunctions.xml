@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestGenericFunctions" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-09-22T02:27:05" hostname="ASUSFOUAD-J3CG0" time="0.047">
+  <properties/>
+  <testcase name="testPartitionLettersAndOtherSymbols" classname="TestGenericFunctions" time="0.028"/>
+  <testcase name="testPartitionWordsAndLines" classname="TestGenericFunctions" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -13,13 +13,16 @@ fun table(init: TABLE.() -> Unit): TABLE {
 
 class TABLE : Tag("table") {
     fun tr(init: TR.() -> Unit) {
-        /* TODO */
+        val tr = TR() // Se crea una instancia de la clase TR (una fila de la tabla)
+
+        tr.init() // Se aplica la función de inicialización 'init' a esa fila (tr)
+        children.add(tr) // Se añade esa fila a la lista de 'children' del TABLE
     }
 }
 
 class TR : Tag("tr") {
     fun td(init: TD.() -> Unit) {
-        /* TODO */
+        children += TD().apply(init)
     }
 }
 
